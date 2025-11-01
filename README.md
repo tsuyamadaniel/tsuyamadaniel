@@ -1,4 +1,4 @@
-## 👋 Hey, eu sou o Daniel Tsuyama 
+## Dev em aprendizado constante
 
 Apenas um dev aí e aluno de Engenharia de Software tentando fazer as coisas funcionarem.  
 
