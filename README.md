@@ -4,7 +4,7 @@ Apenas um dev aí e aluno de Engenharia de Software tentando fazer as coisas fun
 
 🧠 Estudando programação, redes de computadores e desenvolvimento de projetos por curiosidade.  
 💻 Atualmente focando em **Java**, mas também mexendo com C e JavaScript.  
-🎮 Fazendo uns joguinhos no tempo livre (às vezes até funcionam). 
+🎮 Fazendo uns joguinhos no tempo livre (às vezes até funcionam).
 🖨️ Experiência em gerenciamento de impressoras, configuração de drivers e integração com softwares de impressão.
 
 ---
