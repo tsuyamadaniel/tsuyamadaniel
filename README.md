@@ -1,9 +1,9 @@
 ## Dev em aprendizado constante
 
-Apenas um dev aí e aluno de Engenharia de Software tentando fazer as coisas funcionarem.
+Aluno de Engenharia de Software tentando fazer as coisas funcionarem.
 
 🧠 Estudando programação, redes de computadores e desenvolvimento de projetos.  
-💻 Atualmente focando em Java, mas também mexendo com C e JavaScript.  
+💻 Atualmente focado em Java.  
 🎮 Fazendo uns joguinhos no tempo livre (às vezes até funcionam).  
 🖨️ Experiência em gerenciamento de impressoras, configuração de drivers e integração com softwares de impressão.
 
