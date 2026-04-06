@@ -7,6 +7,14 @@ Aluno de Engenharia de Software tentando fazer as coisas funcionarem.
 🎮 Fazendo uns joguinhos no tempo livre (às vezes até funcionam).  
 🖨️ Experiência em gerenciamento de impressoras, configuração de drivers e integração com softwares de impressão.
 
+
+
+![Rotating_Tux](https://github.com/user-attachments/assets/1e4e6811-7163-45a8-8b1d-8f08049fb60d)
+
+
+
+
+
 ---
 
 ### 🛠️ Tecnologias e ferramentas
