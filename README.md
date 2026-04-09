@@ -8,7 +8,6 @@ Aluno de Engenharia de Software tentando fazer as coisas funcionarem.
 🖨️ Experiência em gerenciamento de impressoras, configuração de drivers e integração com softwares de impressão.
 
 ---
-<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/73f42904-5428-4cb7-83f3-dd3b30b38eba" />
 
 
 ### 🛠️ Tecnologias e ferramentas
