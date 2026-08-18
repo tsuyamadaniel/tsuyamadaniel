@@ -13,7 +13,11 @@
 ### 🛠️ Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,vue,mysql,mongodb" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ### 📚 Sobre mim
