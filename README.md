@@ -20,6 +20,3 @@
 ### 📚 Sobre mim
 
 Estudante de **Engenharia de Software**, atualmente no 6° semestre, com foco em **desenvolvimento backend com Java e Spring Boot**.
-
-###
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tsuyamadaniel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" /> </p>
